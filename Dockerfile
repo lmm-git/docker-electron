@@ -1,4 +1,4 @@
-FROM node:latest
+FROM node:lts
 
 MAINTAINER Leonard Marschke <leonard@marschke.me>
 
